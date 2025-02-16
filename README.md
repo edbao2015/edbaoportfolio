@@ -2,6 +2,7 @@
 
 ## About
 Welcome to my **personal portfolio**, where I showcase my projects, technical skills, and experience in **Cybersecurity, IT, and Web Development**. This portfolio website serves as a hub for my work in **Linux security, networking, programming, and IT solutions**. 
+
 **This portfolio is a work in progress!** I am currently working on version 1.1, which will introduce **server and database components** using **node.js**, and **mySQL**. Future versions will include, a Projects section, an **About Me page**, and a **Contact page** for direct outreach.   
 
 ## Description
