@@ -14,7 +14,9 @@ I am currently working on version 1.1, which will introduce **server and databas
 
 ## Technologies Used (as of Version 1.0):
 **Frontend:** HTML5, CSS3, JavaScript
+
 **Backend:** Node.js (Planned for v1.1)
+
 **Database:** MySQL (Planned for v1.1)
 
 
